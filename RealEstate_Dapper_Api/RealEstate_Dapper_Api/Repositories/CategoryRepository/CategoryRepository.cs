@@ -13,6 +13,29 @@ namespace RealEstate_Dapper_Api.Repositories.CategoryRepository
             _context = context;
         }
 
+        public async void CreateCategory(CreateCategoryDto categoryDto)
+        {
+            string query = "insert into Category (CategoryName,CategoryStatus) values (@categoryName,@categoryStatus)";
+            var parameters = new DynamicParameters();
+            parameters.Add("@categoryName", categoryDto.CategoryName);
+            parameters.Add("@categoryStatus", true);
+            using(var connection=_context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query, parameters);
+            }
+        }
+
+        public async void DeleteCategory(int id)
+        {
+            string query = "Delete from Category Where CategoryID=@categoryID";
+            var parameteres = new DynamicParameters();
+            parameteres.Add("@categoryID",id);
+            using(var connection=_context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query,parameteres);
+            }
+        }
+
         public async Task<List<ResultCategoryDto>> GetAllCategoryAsync()
         {
             string query = "select * from Category";
@@ -21,6 +44,34 @@ namespace RealEstate_Dapper_Api.Repositories.CategoryRepository
                 var values = await connection.QueryAsync<ResultCategoryDto>(query);
                 return values.ToList();
             }
+        }
+
+
+        public async void UpdateCategory(UpdateCategoryDto categoryDto)
+        {
+            string query = "UPDATE Category Set CategoryName = @categoryName,CategoryStatus=@categoryStatus where CategoryID=@categoryID";
+            var parameters = new DynamicParameters();
+            parameters.Add("@categoryName", categoryDto.CategoryName);
+            parameters.Add("@categoryStatus", categoryDto.CategoryStatus);
+            parameters.Add("@categoryID", categoryDto.CategoryID);
+
+            using (var connection=_context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query, parameters);       
+            }
+        }
+        public async Task<GetByIDCategoryDto> GetCategory(int id)
+        {
+            string query = "select * from Category Where CategoryID=@categoryID";
+            var parameters = new DynamicParameters();
+            parameters.Add("@categoryID", id);
+
+            using(var connection=_context.CreateConnection())
+            {
+                var values = await connection.QueryFirstOrDefaultAsync<GetByIDCategoryDto>(query,parameters);
+                return values; 
+            }
+           
         }
     }
 }
