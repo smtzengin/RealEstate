@@ -48,3 +48,17 @@
 --ImageUrl nvarchar(100),
 --Status bit
 --)
+
+--create table WhoWeAreDetail(
+--WhoWeAreDetailID int identity(1,1) primary key,
+--Title nvarchar(100),
+--Subtitle nvarchar(100),
+--Description1 nvarchar(500),
+--Description2 nvarchar(500)
+--)
+
+--create table Service(
+--ServiceID int identity(1,1) primary key,
+--ServiceName nvarchar(100),
+--ServiceStatus Bit
+--)
