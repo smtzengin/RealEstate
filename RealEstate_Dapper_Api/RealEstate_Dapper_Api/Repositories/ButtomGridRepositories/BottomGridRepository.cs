@@ -67,6 +67,7 @@ namespace RealEstate_Dapper_Api.Repositories.ButtomGridRepositories
             parameters.Add("@icon", updateBottomGridDto.Icon);
             parameters.Add("@title", updateBottomGridDto.Title);
             parameters.Add("@description", updateBottomGridDto.Description);
+            parameters.Add("@bottomGridID", updateBottomGridDto.BottomGridID);
           
 
             using (var connection = _context.CreateConnection())

@@ -32,7 +32,7 @@ namespace RealEstate_Dapper_Api.Controllers
             return Ok("BottomGrid Başarılı bir şekilde eklendi");
         }
 
-        [HttpDelete]
+        [HttpDelete("{bottomGridID}")]
         public async Task<IActionResult> DeleteBottomGrid(int bottomGridID)
         {
             _bottomGridRepository.DeleteBottomGrid(bottomGridID);

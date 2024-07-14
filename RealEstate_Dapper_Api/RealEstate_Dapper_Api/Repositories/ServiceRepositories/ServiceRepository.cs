@@ -14,14 +14,27 @@ namespace RealEstate_Dapper_Api.Repositories.ServiceRepository
             _context = context;
         }
 
-        public void CreateService(CreateServiceDto serviceDto)
+        public async void CreateService(CreateServiceDto serviceDto)
         {
-            throw new NotImplementedException();
+            string query = "insert into Service (ServiceName,ServiceStatus) values (@serviceName,@serviceStatus)";
+            var parameters = new DynamicParameters();
+            parameters.Add("@serviceName", serviceDto.ServiceName);
+            parameters.Add("@serviceStatus", true);
+            using (var connection = _context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query, parameters);
+            }
         }
 
-        public void DeleteService(int id)
+        public async void DeleteService(int id)
         {
-            throw new NotImplementedException();
+            string query = "Delete from Service Where ServiceID=@serviceID";
+            var parameteres = new DynamicParameters();
+            parameteres.Add("@serviceID", id);
+            using (var connection = _context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query, parameteres);
+            }
         }
 
         public async Task<List<ResultServiceDto>> GetAllServiceAsync()
@@ -47,9 +60,18 @@ namespace RealEstate_Dapper_Api.Repositories.ServiceRepository
             }
         }
 
-        public void UpdateService(UpdateServiceDto serviceDto)
+        public async void UpdateService(UpdateServiceDto serviceDto)
         {
-            throw new NotImplementedException();
+            string query = "UPDATE Service Set ServiceName = @serviceName,ServiceStatus=@serviceStatus where ServiceID=@serviceID";
+            var parameters = new DynamicParameters();
+            parameters.Add("@serviceName", serviceDto.ServiceName);
+            parameters.Add("@serviceStatus", serviceDto.ServiceStatus);
+            parameters.Add("@serviceID", serviceDto.ServiceID);
+
+            using (var connection = _context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query, parameters);
+            }
         }
     }
 }

@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\repositories\\statisticrepositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\statisticrepositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\repositories\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\repositories\\productrepositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\productrepositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\views\\employee\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\employee\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\views\\popularlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\popularlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\views\\shared\\components\\_adminlayoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\shared\\components\\_adminlayoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\repositories\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_ui\\controllers\\popularlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163F2FD-00D1-4C19-919D-A8F3DC2064BC}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\controllers\\popularlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\smtzn\\onedrive\\belgeler\\github\\realestate\\realestate_dapper_api\\realestate_dapper_api\\repositories\\popularlocationrepositories\\popularlocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF1BF7-3AC5-41A1-9EC7-8637AB6BD02C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\popularlocationrepositories\\popularlocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\ProductRepositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\ProductRepositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\ProductRepositories\\ProductRepository.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\ProductRepositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T13:05:51.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StatisticsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\StatisticRepositories\\StatisticsRepository.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\StatisticRepositories\\StatisticsRepository.cs",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\StatisticRepositories\\StatisticsRepository.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\StatisticRepositories\\StatisticsRepository.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAswFEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T08:12:47.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StatisticsController.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:57:35.036Z",
+              "Title": "CreateEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T13:59:41.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Program.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Program.cs",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Program.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T08:09:43.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
               "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T07:56:14.969Z"
+              "WhenOpened": "2024-07-14T13:59:16.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T07:51:11.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutNavbarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutNavbarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutNavbarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminLayoutNavbarComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T07:51:03.861Z"
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:58:25.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:58:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:58:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:58:01.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\PopularLocation\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\PopularLocation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\PopularLocation\\Index.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\PopularLocation\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T07:50:41.645Z"
+              "WhenOpened": "2024-07-14T13:51:36.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopularLocationController.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\PopularLocationController.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Controllers\\PopularLocationController.cs",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\PopularLocationController.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Controllers\\PopularLocationController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwFAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:46:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopularLocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\PopularLocationRepositories\\PopularLocationRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\PopularLocationRepositories\\PopularLocationRepository.cs",
+              "ToolTip": "C:\\Users\\smtzn\\OneDrive\\Belgeler\\Github\\RealEstate\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\PopularLocationRepositories\\PopularLocationRepository.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\PopularLocationRepositories\\PopularLocationRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwD0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:28:44.421Z",
+              "EditorCaption": ""
             }
           ]
         }
