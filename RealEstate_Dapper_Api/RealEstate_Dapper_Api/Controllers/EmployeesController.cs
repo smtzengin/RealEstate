@@ -19,7 +19,7 @@ namespace RealEstate_Dapper_Api.Controllers
         [HttpGet]
         public async Task<IActionResult> EmployeeList()
         {
-            var values = await _employeeRepository.GettAllEmployees();
+            var values = await _employeeRepository.GetAllEmployees();
             return Ok(values);
         }
 

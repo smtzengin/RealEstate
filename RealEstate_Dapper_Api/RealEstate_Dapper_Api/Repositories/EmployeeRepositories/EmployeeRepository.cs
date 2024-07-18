@@ -53,7 +53,7 @@ namespace RealEstate_Dapper_Api.Repositories.EmployeeRepositories
             }
         }
 
-        public async Task<List<ResultEmployeeDto>> GettAllEmployees()
+        public async Task<List<ResultEmployeeDto>> GetAllEmployees()
         {
             string query = "select * from Employee";
             using (var connection = _context.CreateConnection())
