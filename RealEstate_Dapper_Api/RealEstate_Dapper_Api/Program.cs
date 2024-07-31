@@ -1,4 +1,4 @@
-using RealEstate_Dapper_Api.Dtos.BottomGridDtos;
+﻿using RealEstate_Dapper_Api.Dtos.BottomGridDtos;
 using RealEstate_Dapper_Api.Models.DapperContext;
 using RealEstate_Dapper_Api.Repositories.ButtomGridRepositories;
 using RealEstate_Dapper_Api.Repositories.CategoryRepository;
@@ -11,6 +11,13 @@ using RealEstate_Dapper_Api.Repositories.EmployeeRepositories;
 using RealEstate_Dapper_Api.Repositories.StatisticsRepositories;
 using RealEstate_Dapper_Api.Repositories.ContactRepositories;
 using RealEstate_Dapper_Api.Repositories.ToDoListRepositories;
+using RealEstate_Dapper_Api.Hubs;
+using RealEstate_Dapper_Api.Repositories.EstateAgentRepositories.DashboardRepositories.StatisticsRepositories;
+using RealEstate_Dapper_Api.Repositories.EstateAgentRepositories.DashboardRepositories.ChartRepositories;
+using RealEstate_Dapper_Api.Repositories.EstateAgentRepositories.DashboardRepositories.Last5ProductsRepositories;
+using RealEstate_Dapper_Api.Repositories.MessageRepositories;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,7 +34,24 @@ builder.Services.AddTransient<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddTransient<IContactRepository, ContactRepository>();
 builder.Services.AddTransient<IStatisticsRepository, StatisticsRepository>();
 builder.Services.AddTransient<IToDoListRepository, ToDoListRepository>();
+builder.Services.AddTransient<IStatisticRepository, StatisticRepository>();
+builder.Services.AddTransient<IChartRepository, ChartRepository>();
+builder.Services.AddTransient<ILast5ProductsRepository, Last5ProductsRepository>();
+builder.Services.AddTransient<IMessageRepository, MessageRepository>();
 
+//Dışarıdan yetkilendirme veriyoruz cors ile
+builder.Services.AddCors(opt =>
+{
+	opt.AddPolicy("CorsPolicy", builder =>
+	{
+		builder.AllowAnyHeader()
+		.AllowAnyMethod()
+		.SetIsOriginAllowed((host) => true)
+		.AllowCredentials();
+	});
+});
+builder.Services.AddHttpClient();
+builder.Services.AddSignalR();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -42,10 +66,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors("CorsPolicy");
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapHub<SignalRHub>("/signalrhub");
 
 app.Run();
